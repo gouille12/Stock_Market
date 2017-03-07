@@ -1,0 +1,10 @@
+Projet de visualiseur d'impact sur la bourse
+
+But : Connaitre l’effet de différents stimuli sur la valeur boursière d’un titre
+Être capable de filtrer au maximum les résultats à mesure. Avoir un bouton pour actualiser les valeurs et pour trouver de nouveaux événements. Mettre un marqueur pour mentionner de ne pas actualiser certains éléments trop anciens. Être capable de référencer au minimum des événements canadiens, américains. Pouvoir faire afficher des graph de ca, des diagrammes, beau. En faire une application desktop.
+
+Annonces de politiciens, Étendre à annonces de sportif, de vedettes.
+Message Twitter, Message sur autres réseaux sociaux, Sortie d’une loi, Première d’un film, d’une publicité, Superbowl, Série mondiale, etc.  
+Faire un onglet sportif, un onglet politicien.
+
+Faire une liste modifiable des titres affichés
